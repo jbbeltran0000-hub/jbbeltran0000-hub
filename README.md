@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ⚖️ Legal & Regulatory Notice
+This tool is a community-led science initiative. Please note that data provided here is for **informational purposes only** and does not replace official regulatory data from South Coast AQMD.
+
+* **To file a formal air quality complaint:** Call 1-800-CUT-SMOG or visit the [South Coast AQMD Complaint Map](https://www.aqmd.gov/home/air-quality/complaints).
+* **Full Disclaimer:** See [DISCLAIMER.md](./DISCLAIMER.md) for more details.
